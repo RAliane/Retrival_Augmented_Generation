@@ -1,0 +1,15 @@
+{
+    "matrix": [
+        [
+            1.0,
+            5.0,
+            7.0
+        ],
+        [
+            16.0,
+            7.0,
+            9.0
+        ]
+    ],
+    "error": "Matrix is not homogenous: all elements in each row must be the same"
+}
